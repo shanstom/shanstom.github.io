@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://shanstom.github.io/sitemap.html.gz
+Sitemap: https://shanstom.github.io/app/sitemap.html.gz
+Sitemap: https://shanstom.github.io/assets/sitemap.html.gz
+Sitemap: https://shanstom.github.io/css/sitemap.html.gz
+Sitemap: https://shanstom.github.io/includes/sitemap.html.gz
+Sitemap: https://shanstom.github.io/item/sitemap.html.gz
+Sitemap: https://shanstom.github.io/src/sitemap.html.gz
